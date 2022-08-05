@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="lucas_diego" type="misc" name="" description="" />
+     <script src="script.lua" type="client" />
+     <file src="base.txd" />
+     <file src="base.dff" />
+     <file src="base.col" />
+</meta>

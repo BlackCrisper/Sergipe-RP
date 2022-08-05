@@ -1,0 +1,6 @@
+<meta>
+    <script src="AirNew_s.lua" type="server" cache="false" />
+	<script src="AirNew_c.lua" type="client" cache="false" />
+	<file src="Arquivos/Sidoka.mp3" />
+	<file src="Arquivos/fonte.ttf" />
+</meta>

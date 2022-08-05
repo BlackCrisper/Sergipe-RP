@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="LUCAY" type="misc" name="SKINPRF" description="SKINPRF" />
+     <script src="script.lua" type="client" />
+     <file src="vip2.txd" />
+     <file src="vip2.dff" />
+</meta>

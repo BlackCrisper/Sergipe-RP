@@ -1,0 +1,8 @@
+<meta>
+	<info author="N3xT" />
+
+	<script src="mainC.lua" type="client" cache="false" />
+	<script src="mainS.lua" type="server" cache="false" />
+	
+	<file src="gang.png" cache="false" />
+</meta>

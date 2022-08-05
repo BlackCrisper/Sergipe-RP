@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Lhs" type="misc" name="Audi" description="Audi" />
+     <script src="script.lua" type="client" />
+     <file src="507.txd" />
+     <file src="507.dff" />
+</meta>

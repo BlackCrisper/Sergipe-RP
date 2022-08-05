@@ -1,0 +1,10 @@
+<meta>
+	<script src="client/main.lua" type="client" cache="false"/>
+	<script src="client/carhud.lua" type="client" cache="false"/>
+	<script src="client/postos.lua" type="client" cache="false"/>
+	<script src="server/carfunctions.lua" type="server" />
+	<script src="server/main.lua" type="server" />
+	<script src="shared/main.lua" type="shared" cache="false"/>
+    <file src="fonts/font.ttf"/>
+	<file src="sounds/song.mp3"/>
+</meta>

@@ -1,0 +1,27 @@
+<meta>
+    <info author="LG7 https://www.youtube.com/channel/UCBamZrEGje4GIQR_IPDPZXQ" />
+	<script src="LG7_Client.luac" type="client" cache="false" />
+	<script src="LG7_Server.luac" type="server" cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" cache="false" />
+	<script src="settingC.lua" type="client" cache="false" />
+	<script src="settingS.lua" type="server" cache="false" />
+
+	<file src="img/tabletsamu.png" />
+	<file src="img/accept.png" />
+	<file src="img/wrong.png" />
+	<file src="img/carregando.png" />
+	<file src="img/hp.png" />
+	<file src="img/emchamado.png" />
+	<file src="sfx.mp3" /> 
+	<file src="font/fonte.ttf" />	
+	<file src="img/disquesamu.png" />	
+	<file src="shaders/old_film.fx" type="client" cache="false" />
+	<script src="dx_lib/Dx_Grid.lua" type="client" cache="false" />
+	<script src="dx_lib/dxEditBox.lua" type="client" cache="false" />
+
+	<file src="font/font.ttf" cache="false" />
+	<file src="font/font1.ttf" cache="false" />
+	<file src="font/OpenSans-Bold.ttf" cache="false" />
+	<file src="font/fontNick.ttf" cache="false" />
+</meta>

@@ -1,0 +1,36 @@
+﻿<meta>
+    <info name="Sistema Habilitação" author="" ></info>
+	
+	<script src="Renovar_S.lua" type="server"cache="false" />
+	<script src="Creta_S.lua" type="server"cache="false" />
+	<script src="CategoriaS.lua" type="server"cache="false" />
+	<script src="CategoriaC.lua" type="client"cache="false" />
+	
+	<script src="Introducao_C.lua" type="client" cache="false" />
+	<script src="Prova_C.lua" type="client" cache="false" />
+	<script src="Pratica_C.lua" type="client" cache="false" />
+	<script src="Multa_C.lua" type="client" cache="false" />
+	
+                      <!--  CATEGORIA'S -->
+	<script src="Categorias/Hab_Moto.lua" type="server"cache="false" />
+	<script src="Categorias/Hab_Carro.lua" type="server"cache="false" />
+	<script src="Categorias/Hab_Caminhao.lua" type="server"cache="false" />
+	<script src="Categorias/Hab_Carreta.lua" type="server"cache="false" />
+	
+                      <!--  FONT'S -->
+	<file src="font/font.ttf" cache="false" />
+	<file src="font/font1.ttf" cache="false" />
+	<file src="font/OpenSans-Bold.ttf" cache="false" />
+	<file src="font/fontNick.ttf" cache="false" />
+	
+                       <!-- IMAGENS -->
+    <file src="Img/botao.png" cache="false" />
+    <file src="Img/botao2.png" cache="false" />
+    <file src="Img/Detran.png" cache="false" />
+    <file src="Img/Logo.png" cache="false" />
+    <file src="Img/Moto.png" cache="false"/>
+    <file src="Img/Carro.png" cache="false"/>
+    <file src="Img/Caminhao.png" cache="false"/>
+    <file src="Img/Carreta.png" cache="false"/>
+    <file src="Img/CarteiraBlock.png" cache="false"/>
+</meta>

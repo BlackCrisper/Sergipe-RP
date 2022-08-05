@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="andrey" type="misc" name="[SAMU]SKIN" description="[SAMU]SKIN" />
+     <script src="script.lua" type="client" />
+     <file src="laemt1.txd" />
+     <file src="laemt1.dff" />
+</meta>

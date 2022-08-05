@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="spik" type="misc" name="veiculo" description="veiculo" />
+     <script src="script.lua" type="client" />
+     <file src="panto.txd" />
+     <file src="panto.dff" />
+</meta>

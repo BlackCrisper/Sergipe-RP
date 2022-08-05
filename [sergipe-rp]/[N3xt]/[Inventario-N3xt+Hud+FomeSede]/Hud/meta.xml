@@ -1,0 +1,67 @@
+<meta>
+    <info author="Fraachz" name="Hud - Sistema Exclusivo" version="1.0.0" type="script" />
+
+    <script src="gFraachz.lua" type="shared" />
+    <script src="sFraachz.lua" type="server" />
+    <script src="cFraachz.lua" type="client" />
+
+    <file src="files/IMGs/logo.png" />
+    <file src="files/IMGs/button.png" />
+
+    <file src="files/IMGs/0.png" />
+    <file src="files/IMGs/1.png" />
+    <file src="files/IMGs/2.png" />
+    <file src="files/IMGs/3.png" />
+    <file src="files/IMGs/4.png" />
+    <file src="files/IMGs/5.png" />
+    <file src="files/IMGs/6.png" />
+    <file src="files/IMGs/7.png" />
+    <file src="files/IMGs/8.png" />
+    <file src="files/IMGs/9.png" />
+    <file src="files/IMGs/10.png" />
+    <file src="files/IMGs/11.png" />
+    <file src="files/IMGs/11.png" />
+    <file src="files/IMGs/12.png" />
+    <file src="files/IMGs/14.png" />
+    <file src="files/IMGs/15.png" />
+    <file src="files/IMGs/16.png" />
+    <file src="files/IMGs/17.png" />
+    <file src="files/IMGs/18.png" />
+    <file src="files/IMGs/22.png" />
+    <file src="files/IMGs/23.png" />
+    <file src="files/IMGs/24.png" />
+    <file src="files/IMGs/25.png" />
+    <file src="files/IMGs/26.png" />
+    <file src="files/IMGs/27.png" />
+    <file src="files/IMGs/28.png" />
+    <file src="files/IMGs/29.png" />
+    <file src="files/IMGs/30.png" />
+    <file src="files/IMGs/31.png" />
+    <file src="files/IMGs/32.png" />
+    <file src="files/IMGs/33.png" />
+    <file src="files/IMGs/34.png" />
+    <file src="files/IMGs/35.png" />
+    <file src="files/IMGs/36.png" />
+    <file src="files/IMGs/37.png" />
+    <file src="files/IMGs/38.png" />
+    <file src="files/IMGs/39.png" />
+    <file src="files/IMGs/40.png" />
+    <file src="files/IMGs/41.png" />
+    <file src="files/IMGs/42.png" />
+    <file src="files/IMGs/43.png" />
+    <file src="files/IMGs/44.png" />
+    <file src="files/IMGs/45.png" />
+    <file src="files/IMGs/46.png" />
+    <file src="files/IMGs/star.png" />
+
+    <file src="files/SOUNDs/sound.mp3" />
+
+    <file src="files/FONTs/font.ttf" />
+    <file src="files/FONTs/Bold.ttf" />
+    <file src="files/FONTs/font1.ttf" />
+    <file src="files/FONTs/icons.ttf" />
+    <file src="files/FONTs/Cunia.ttf" />
+    <file src="files/FONTs/fontNick.ttf" />
+    <file src="files/FONTs/OpenSans_Bold.ttf" />
+
+</meta>

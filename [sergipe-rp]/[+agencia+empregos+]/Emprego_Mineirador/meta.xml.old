@@ -1,0 +1,24 @@
+<meta>
+    <info name="Trabalhos" author="#DaNiLiN" ></info>
+                      <!-- DX GRID -->
+	<script src="dx_lib/Dx_Grid.lua" type="client" cache="false" />
+	
+                  <!-- DX ARQUIVOS DNL -->	
+	<script src="Interior_S.lua" type="server"cache="false" />
+	<script src="Save_S.lua" type="server"cache="false" />
+	<script src="Danilin_S.luac" type="server"cache="false" />
+	<script src="Danilin_C.lua" type="client" cache="false" />
+	
+                      <!--  FONT'S -->
+	<file src="font/font.ttf" cache="false" />
+	<file src="font/font1.ttf" cache="false" />
+	<file src="font/OpenSans-Bold.ttf" cache="false" />
+	<file src="font/fontNick.ttf" cache="false" />
+	
+                       <!-- IMAGENS -->
+    <file src="Img/botao.png" cache="false" />
+	
+                       <!-- TXD -->
+	<file src="txd/bat.txd" cache = "false" />
+	<file src="txd/bat.dff" cache = "false" />
+</meta>

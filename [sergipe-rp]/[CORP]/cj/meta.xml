@@ -1,0 +1,6 @@
+<meta>
+	<info author="Ninguem" version="1.0" type="script" name="Kit"/>
+        <script src="kit.lua" type="server"/>
+		<script src="sskin.lua" type="server"/>
+
+</meta>

@@ -1,0 +1,9 @@
+<meta>
+	<info author="Lima" name="Anuncio Novo" version="BETA"/>
+
+	<script src="edit.lua" type="shared"/>
+	<script src="a_c.luac" type="client"/>
+	<script src="a_s.luac" type="server"/>
+	<file src="logoexemplo.png"/>
+	<file src="sound.mp3" />
+</meta>

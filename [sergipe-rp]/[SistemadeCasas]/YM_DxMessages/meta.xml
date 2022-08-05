@@ -1,0 +1,16 @@
+<meta>
+    <script src="client.lua" type="client" />
+    <script src="server.lua" type="server" />
+    
+    <export function="addBox" type="shared" />
+    
+    <file src="files/FontAwesome.otf" />
+    <file src="files/FontAwesome.ttf" />
+    <file src="files/Rubik-Black.ttf" />
+    <file src="files/Rubik-Regular.ttf" />
+
+    <file src="files/left.png" />
+    <file src="files/right.png" />
+    <file src="files/beep.mp3" />
+    <oop>true</oop>
+</meta>

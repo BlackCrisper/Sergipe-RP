@@ -1,0 +1,21 @@
+<meta>
+    <info name="" author="#DaNiLiN"></info>
+    <min_mta_version server="1.5.2-9.07903"></min_mta_version>
+    
+    <script src="Save_S.lua" type="server" cache="false" />
+    <script src="Interior_S.lua" type="server" cache="false" />
+    <script src="Danilin_S.luac" type="server" cache="false" />
+    <script src="Danilin_C.lua" type="client" cache="false" />
+    
+    <!--  FONT'S -->
+    <file src="font/font.ttf" cache="false" />
+    <file src="font/font1.ttf" cache="false" />
+    <file src="font/OpenSans-Bold.ttf" cache="false" />
+    <file src="font/fontNick.ttf" cache="false" />
+    
+    <!-- IMAGENS -->
+    <file src="Img/botao.png" cache="false" />
+    
+    <!-- DX GRID -->
+    <script src="dx_lib/dxGrid.lua" type="client" cache="false" />
+</meta>

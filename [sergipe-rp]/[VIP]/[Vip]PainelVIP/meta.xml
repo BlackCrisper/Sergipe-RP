@@ -1,0 +1,6 @@
+<meta>
+    <info author="AirNewSCR (fb.com/AirNewSCR)" />
+	<script src="AirNew_s.lua" type="server" cache="false" />
+	<script src="AirNew_c.lua" type="client" cache="false" />
+	<file src="Arquivos/Cadeado.png" />
+</meta>

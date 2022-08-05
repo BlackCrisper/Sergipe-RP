@@ -1,0 +1,26 @@
+﻿<meta>
+    
+	
+	<file src="alarmbankc.mp3" />
+	<file src="doorbankc.mp3" />
+	<script src="serverbankc.luac" type="server" />
+	<script src="clientbankc.luac" type="client" cache="false"/>
+	<script src="songbankc.lua" type="client" cache="false"/>
+	
+	<script src="markerrob.lua" type="server" />
+	<script src="markerrob2.lua" type="server" />
+	
+
+	
+	
+	
+  <file src = "file/botao.png"/>
+  <file src = "file/circle.png"/>
+  <file src = "file/lula.png"/>
+  <file src = "file/positivo.png"/>
+  <file src = "file/ladrao.png"/>
+	
+	
+	
+
+</meta>

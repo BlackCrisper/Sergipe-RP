@@ -1,0 +1,25 @@
+<meta>
+
+	<script src='mainC.lua' type='client' />
+    <script src='mainS.lua' type='server' />
+
+    <export function='dxInfoAddBox' type='shared' />
+
+	<file src='files/icons/info.png' />
+	<file src='files/icons/error.png' />
+	<file src='files/icons/success.png' />
+	<file src='files/icons/danger.png' />
+	<file src='files/icons/shop.png' />
+	<file src='files/icons/help.png' />
+	<file src='files/icons/staff.png' />
+
+	<file src='files/sounds/info.mp3' />
+	<file src='files/sounds/error.mp3' />
+	<file src='files/sounds/success.mp3' />
+	<file src='files/sounds/danger.wav' />
+	<file src='files/sounds/shop.mp3' />
+	<file src='files/sounds/help.mp3' />
+	<file src='files/sounds/staff.mp3' />
+ 
+	<file src='files/fonts/regular.ttf' />
+</meta>

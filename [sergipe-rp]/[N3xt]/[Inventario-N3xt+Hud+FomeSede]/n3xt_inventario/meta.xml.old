@@ -1,0 +1,192 @@
+<meta>
+	<info author="N3xT" />
+
+	<script src="config.lua" type="shared" cache="false" />
+
+	<script src="files/lib/dxEdit.lua" type="server" cache="false" />
+	<script src="files/lib/dxGrid.lua" type="client" cache="false" />
+
+	<script src="files/mainC.luac" type="client" cache="false" />
+	<script src="files/mainS.luac" type="server" cache="false" />
+	
+	<script src="files/util/utilC.luac" type="client" cache="false" />
+	<script src="files/util/utilS.luac" type="server" cache="false" />
+
+	<script src="use.lua" type="server" cache="false" />
+
+	<!-- Alimentos -->
+	<script src="files/others/loja_alimentos/mainC.luac" type="client" cache="false" />
+	<script src="files/others/loja_alimentos/mainS.luac" type="server" cache="false" />
+
+	<file src="files/gfx/foods/absinto.png" cache="false" />
+	<file src="files/gfx/foods/agua.png" cache="false" />
+	<file src="files/gfx/foods/cafe.png" cache="false" />
+	<file src="files/gfx/foods/cerveja.png" cache="false" />
+	<file src="files/gfx/foods/chocolate.png" cache="false" />
+	<file src="files/gfx/foods/conhaque.png" cache="false" />
+	<file src="files/gfx/foods/energetico.png" cache="false" />
+	<file src="files/gfx/foods/pizza.png" cache="false" />
+	<file src="files/gfx/foods/salgadinho.png" cache="false" />
+	<file src="files/gfx/foods/tequila.png" cache="false" />
+	<file src="files/gfx/foods/vodka.png" cache="false" />
+	<file src="files/gfx/foods/whisky.png" cache="false" />
+	<file src="files/gfx/foods/limonada.png" cache="false" />
+
+	<!-- Utilitários -->
+	<script src="files/others/loja_utilitarios/mainC.luac" type="client" cache="false" />
+	<script src="files/others/loja_utilitarios/mainS.luac" type="server" cache="false" />
+
+	<file src="files/gfx/utilities/bandagem.png" cache="false" />
+	<file src="files/gfx/utilities/colete.png" cache="false" />
+	<file src="files/gfx/utilities/furadeira.png" cache="false" />
+	<file src="files/gfx/utilities/gasolina.png" cache="false" />
+	<file src="files/gfx/utilities/medkit.png" cache="false" />
+	<file src="files/gfx/utilities/militec.png" cache="false" />
+	<file src="files/gfx/utilities/mira.png" cache="false" />
+	<file src="files/gfx/utilities/mochila.png" cache="false" />
+	<file src="files/gfx/utilities/pendrive.png" cache="false" />
+	<file src="files/gfx/utilities/repairkit.png" cache="false" />
+	<file src="files/gfx/utilities/serra.png" cache="false" />
+	<file src="files/gfx/utilities/pa.png" cache="false" />
+
+	<!-- Máscaras -->
+	<script src="files/others/loja_mascaras/mainC.luac" type="client" cache="false" />
+	<script src="files/others/loja_mascaras/mainS.luac" type="server" cache="false" />
+
+	<file src="files/modell/mask_devil.txd" cache="false" />
+	<file src="files/modell/mask_devil.dff" cache="false" />
+
+	<file src="files/modell/mask_guyfawkes.txd" cache="false" />
+	<file src="files/modell/mask_guyfawkes.dff" cache="false" />
+
+	<file src="files/modell/mask_darthvader.txd" cache="false" />
+	<file src="files/modell/mask_darthvader.dff" cache="false" />
+
+	<file src="files/modell/bordobereli.txd" cache="false" />
+	<file src="files/modell/bordobereli.dff" cache="false" />
+
+	<file src="files/modell/hat_cowboy.txd" cache="false" />
+	<file src="files/modell/hat_cowboy.dff" cache="false" />
+
+	<file src="files/modell/mask_dog.txd" cache="false" />
+	<file src="files/modell/mask_dog.dff" cache="false" />
+
+	<file src="files/modell/mask_gas.txd" cache="false" />
+	<file src="files/modell/mask_gas.dff" cache="false" />
+
+	<file src="files/modell/mask_bag.txd" cache="false" />
+	<file src="files/modell/mask_bag.dff" cache="false" />
+	
+	<file src="files/modell/admin.txd" cache="false" />
+	<file src="files/modell/admin.dff" cache="false" />
+
+	<file src="files/gfx/masks/anonymous.png" cache="false" />
+	<file src="files/gfx/masks/cachorro.png" cache="false" />
+	<file src="files/gfx/masks/chapeu.png" cache="false" />
+	<file src="files/gfx/masks/diabo.png" cache="false" />
+	<file src="files/gfx/masks/gas.png" cache="false" />
+	<file src="files/gfx/masks/jedi.png" cache="false" />
+	<file src="files/gfx/masks/macaco.png" cache="false" />
+	<file src="files/gfx/masks/saco.png" cache="false" />
+	<file src="files/gfx/masks/terror.png" cache="false" />
+
+	<!-- Negro -->
+	<script src="files/others/mercado_negro/mainC.luac" type="client" cache="false" />
+	<script src="files/others/mercado_negro/mainS.luac" type="server" cache="false" />
+
+	<file src="files/gfx/black/algemas.png" cache="false" />
+	<file src="files/gfx/black/c4.png" cache="false" />
+	<file src="files/gfx/black/capuz.png" cache="false" />
+	<file src="files/gfx/black/keysinvasao.png" cache="false" />
+	<file src="files/gfx/black/logsinvasao.png" cache="false" />
+
+	<!-- Assalto -->
+	<script src="files/others/assalto_banco/mainC.luac" type="client" cache="false" />
+	<script src="files/others/assalto_banco/mainS.luac" type="server" cache="false" />
+
+    <map src="files/map/FleecaMAP.map" dimension="0"></map>
+    <script src="files/map/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="files/map/mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+
+	<file src="files/modell/ban.txd" cache="false" />
+    <file src="files/modell/ban.dff" cache="false" />
+    <file src="files/modell/ban.col" cache="false" />
+	<file src="files/modell/furadeira.txd" cache="false" />
+	<file src="files/modell/furadeira.dff" cache="false" />
+
+	<file src="files/sfx/furadeira.mp3" cache="false" />
+	<file src="files/sfx/alarme.mp3" cache="false" />
+	
+	<!-- Drogas -->
+	<script src="files/others/drogas/mainC.luac" type="client" cache="false" />
+	<script src="files/others/drogas/mainS.luac" type="server" cache="false" />
+
+	<file src="files/gfx/drugs/fertilizante.png" cache="false" />
+	<file src="files/gfx/drugs/smaconha.png" cache="false" />
+	<file src="files/gfx/drugs/cocaina.png" cache="false" />
+	<file src="files/gfx/drugs/fmaconha.png" cache="false" />
+	
+	<!-- Armas -->
+	<script src="files/others/armas/mainC.luac" type="client" cache="false" />
+	<script src="files/others/armas/mainS.luac" type="server" cache="false" />
+
+	<file src="files/gfx/weapons/WEAPON_GLOCK.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_38.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_MP5.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_AK47.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_AR15.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_DOZE.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_AR10.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_TASER.png" cache="false" />
+
+	<file src="files/gfx/weapons/municao9mm.png" cache="false" />
+	<file src="files/gfx/weapons/municao556.png" cache="false" />
+	<file src="files/gfx/weapons/municao762.png" cache="false" />
+	<file src="files/gfx/weapons/municaosnip.png" cache="false" />
+	<file src="files/gfx/weapons/cartucho12.png" cache="false" />
+
+	<!-- Dinheiro Sujo -->
+	<script src="files/others/dinheiro_sujo/mainC.luac" type="client" cache="false" />
+	<script src="files/others/dinheiro_sujo/mainS.luac" type="server" cache="false" />
+
+	<!-- Porta Malas -->
+	<script src="files/others/porta_malas/mainC.luac" type="client" cache="false" />
+	<script src="files/others/porta_malas/mainS.luac" type="server" cache="false" />
+
+	<file src="files/sfx/door.mp3" cache="false" />
+
+	<!-- Algemas & Capuz -->
+	<script src="files/others/algemas_capuz/mainC.luac" type="client" cache="false" />
+	<script src="files/others/algemas_capuz/mainS.luac" type="server" cache="false" />
+
+	<!-- Baú -->
+	<script src="files/others/bau/mainC.luac" type="client" cache="false" />
+	<script src="files/others/bau/mainS.luac" type="server" cache="false" />
+
+	<!-- Outros -->
+	<script src="files/save.luac" type="server" cache="false" />
+
+	<file src="files/font/font1.ttf" cache="false" />
+	<file src="files/font/font2.ttf" cache="false" />
+
+	<file src="files/sfx/openInv.wav" cache="false" />
+	<file src="files/sfx/closeInv.wav" cache="false" />
+	<file src="files/sfx/reggae.mp3" cache="false" />
+
+	<file src="files/gfx/others/buttonbg.png" cache="false" />
+	<file src="files/gfx/others/dinheirosujo.png" cache="false" />
+	<file src="files/gfx/others/seta.png" cache="false" />
+	<file src="files/gfx/others/eff_drogas.png" cache="false" />
+	<file src="files/gfx/others/eff_drogas2.png" cache="false" />
+
+	<file src="files/fx/texreplace.fx" type="server" />
+	
+	<export function="getSpaceMochila" type="server" />
+	<export function="isItemEquipped" type="server" />
+	<export function="getItem" type="server" />
+	<export function="giveItem" type="server" />
+	<export function="giveItemS" type="server" />
+	<export function="takeItem" type="server" />
+	<export function="takeItemS" type="server" />
+	<export function="getAllItens" type="server" />
+</meta>

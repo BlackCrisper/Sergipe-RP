@@ -1,0 +1,5 @@
+<meta>
+	<script type="client" src="replace.lua" />
+ 	<file src="525.txd" />
+	<file src="525.dff" />
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+    <!-- SCRIPT -->
+	<script src="cHype.lua" type="client" />
+    <script src="sHype.lua" type="server" />
+    <!-- MAPA -->
+    <map src="Academia.map" dimension="0"></map>  
+</meta>

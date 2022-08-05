@@ -1,0 +1,14 @@
+skin222 = createPickup (983.222, -1965.893, 13, 3, 1275, 0 )
+function pickupskin222 ( thePlayer )
+ setPedSkin ( thePlayer, 200 )
+ setElementData ( thePlayer, "zombie", true  ) 
+end
+addEventHandler ( "onPickupUse", skin222, pickupskin222 )
+addEventHandler ("onPickupUse", getRootElement(), 
+
+function (playerWhoUses)
+  if (source == skin222) then
+    setPlayerNametagText (playerWhoUses, "" .. getPlayerName (playerWhoUses))
+    setElementData (playerWhoUses, "job", "farm")
+  end
+end)

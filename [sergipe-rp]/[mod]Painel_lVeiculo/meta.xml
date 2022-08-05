@@ -1,0 +1,17 @@
+﻿<xml>
+	<info author="TinokoSCR" version="1.0" name="Paine Veiculo - BRASILEIROS VIDA SOCIAL 2.0" />
+	
+	<script src="sourceC.lua" type="client" cache="false" />
+	<script src="sourceS.lua" type="server" />
+	
+	<file src="bgPanel.png" />
+	<file src="Freiodemao.png" />
+	<file src="down.png" />
+	<file src="up.png" />
+	<file src="left.png" />
+	<file src="right.png" />
+	<file src="iconRepair.png" />
+	<file src="iconFlip.png" />
+    <file src="Logo.png" />
+	<file src="icons.ttf" />	
+</xml>

@@ -1,0 +1,4 @@
+<meta>
+        <info author="unknown" version="1.5.6" name="Protecao" type="misc" />     
+	<script src="alarme.lua" type="server"></script>
+</meta>

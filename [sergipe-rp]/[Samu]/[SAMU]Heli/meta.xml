@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="andrey" type="misc" name="[SAMU]VTR" description="[SAMU]VTR" />
+     <script src="script.lua" type="client" />
+     <file src="burrito.txd" />
+     <file src="burrito.dff" />
+</meta>

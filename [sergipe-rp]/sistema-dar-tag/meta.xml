@@ -1,0 +1,8 @@
+<meta>
+    <info author="ChuckBlade" version="1.0" name="TagSystem" type="script" />
+	<script src="Client.luac" type="client"/>
+	<script src="Server.luac" type="server"/>
+	<script src="Edit.lua" type="server" cache="false"/>
+	
+	<config src="config.xml" type="shared"/>
+</meta>

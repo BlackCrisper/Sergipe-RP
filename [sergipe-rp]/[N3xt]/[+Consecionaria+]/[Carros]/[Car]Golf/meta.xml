@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="GM2MC" type="misc" name="Golf" description="Golf" />
+     <script src="script.lua" type="client" />
+     <file src="589.txd" />
+     <file src="589.dff" />
+</meta>

@@ -1,0 +1,12 @@
+<meta>
+
+    <script src="client.lua" type="client" />
+    
+    <file src="teszt.txd" />
+    
+    <file src="teszt.dff" />
+    <file src="teszt.col" />
+	<file src="files/k.col" />
+    <file src="files/k.dff" />
+
+</meta>

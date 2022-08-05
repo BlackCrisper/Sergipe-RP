@@ -1,0 +1,5 @@
+﻿
+-----------Comandos-------------
+/ showcol
+
+setDevelopmentMode ( false )

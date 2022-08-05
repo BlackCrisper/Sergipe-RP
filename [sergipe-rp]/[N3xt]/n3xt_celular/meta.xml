@@ -1,0 +1,113 @@
+<meta>
+    <info author="N3xT" />
+
+    <script src="files/lib/dxEdit.lua" type="client" cache="false" />
+    <script src="files/lib/dxGrid.lua" type="client" cache="false" />
+
+    <script src="files/util/utilC.lua" type="client" cache="false" />
+    <script src="files/util/utilS.lua" type="server" />
+
+    <script src="config.lua" type="shared" cache="false" />
+    <script src="files/mainC.lua" type="client" cache="false" />
+    <script src="files/mainS.lua" type="server" />
+
+    <script src="files/shop/mainC.lua" type="client" cache="false" />
+    <script src="files/shop/mainS.lua" type="server" />
+    <file src="files/shop/shop.png" />
+
+    <file src="files/gfx/bg.png" />
+    <file src="files/gfx/galeria_select.png" />
+    <file src="files/gfx/galeria_noti.png" />
+    <file src="files/gfx/galeria_wall.png" />
+    <file src="files/gfx/galeria_view.png" />
+    <file src="files/gfx/galeria_imgs.png" />
+    <file src="files/gfx/galeria_main.png" />
+    <file src="files/gfx/contact_main.png" />
+    <file src="files/gfx/ncontact.png" />
+    <file src="files/gfx/ncontact2.png" />
+    <file src="files/gfx/config_main.png" />
+    <file src="files/gfx/bloqueio.png" />
+    <file src="files/gfx/digital.png" />
+    <file src="files/gfx/inicial.png" />
+    <file src="files/gfx/spotify_buscar.png" />
+    <file src="files/gfx/buscar.png" />
+    <file src="files/gfx/pause.png" />
+    <file src="files/gfx/play.png" />
+    <file src="files/gfx/notas.png" />
+    <file src="files/gfx/notas_text.png" />
+    <file src="files/gfx/notas_ntext.png" />
+    <file src="files/gfx/excluir.png" />
+    <file src="files/gfx/config.png" />
+    <file src="files/gfx/config_bg.png" />
+    <file src="files/gfx/discagem.png" />
+    <file src="files/gfx/twitter.png" />
+    <file src="files/gfx/tweet.png" />
+    <file src="files/gfx/olx.png" />
+    <file src="files/gfx/deepweb.png" />
+    <file src="files/gfx/whatsapp.png" />
+    <file src="files/gfx/call.png" />
+    <file src="files/gfx/scall.png" />
+    <file src="files/gfx/rcall.png" />
+    <file src="files/gfx/whatsapp_p.png" />
+    <file src="files/gfx/whatsapp_m.png" />
+    <file src="files/gfx/whatsapp_s.png" />
+    <file src="files/gfx/whatsapp_s2.png" />
+    <file src="files/gfx/whatsapp_s3.png" />
+    <file src="files/gfx/wa_message.png" />
+    <file src="files/gfx/view.png" />
+    <file src="files/gfx/view2.png" />
+    <file src="files/gfx/noview.png" />
+    <file src="files/gfx/dinheiro.png" />
+    <file src="files/gfx/wallpaper_01.png" />
+    <file src="files/gfx/wallpaper_02.png" />
+    <file src="files/gfx/wallpaper_03.png" />
+    <file src="files/gfx/wallpaper_04.png" />
+    <file src="files/gfx/wallpaper_05.png" />
+    <file src="files/gfx/wallpaper_06.png" />
+    <file src="files/gfx/wallpaper_07.png" />
+    <file src="files/gfx/wallpaper_08.png" />
+    <file src="files/gfx/wallpaper_09.png" />
+    <file src="files/gfx/wallpaper_10.png" />
+    <file src="files/gfx/wallpaper_11.png" />
+    <file src="files/gfx/wallpaper_12.png" />
+    <file src="files/gfx/wallpaper_13.png" />
+    <file src="files/gfx/wallpaper_14.png" />
+    <file src="files/gfx/wallpaper_15.png" />
+    <file src="files/gfx/avatars/1.png" />
+    <file src="files/gfx/avatars/2.png" />
+    <file src="files/gfx/avatars/3.png" />
+    <file src="files/gfx/avatars/4.png" />
+    <file src="files/gfx/avatars/5.png" />
+    <file src="files/gfx/avatars/6.png" />
+    <file src="files/gfx/avatars/7.png" />
+    <file src="files/gfx/avatars/8.png" />
+    <file src="files/gfx/avatars/9.png" />
+    <file src="files/gfx/avatars/10.png" />
+    <file src="files/gfx/avatars/11.png" />
+    <file src="files/gfx/avatars/12.png" />
+    <file src="files/gfx/avatars/13.png" />
+    <file src="files/gfx/avatars/14.png" />
+    <file src="files/gfx/avatars/15.png" />
+    <file src="files/gfx/avatars/16.png" />
+    <file src="files/gfx/avatars/17.png" />
+    <file src="files/gfx/avatars/18.png" />
+    <file src="files/gfx/avatars/19.png" />
+    <file src="files/gfx/avatars/20.png" />
+
+    <file src="files/sfx/chamada_01.mp3" />
+    <file src="files/sfx/chamada_02.mp3" />
+    <file src="files/sfx/chamada_03.mp3" />
+    <file src="files/sfx/notify_01.mp3" />
+    <file src="files/sfx/notify_02.mp3" />
+    <file src="files/sfx/notify_03.mp3" />
+    <file src="files/sfx/chamando.mp3" />
+
+    <file src="files/modell/phone.txd" />
+    <file src="files/modell/phone.dff" />
+
+    <file src="files/font/MontserratMD.ttf" />
+    <file src="files/font/MontserratSB.ttf" />
+    <file src="files/font/Medium.ttf" />
+    <file src="files/font/yinmar.ttf" />
+    <file src="files/font/Bold.ttf" />
+</meta>

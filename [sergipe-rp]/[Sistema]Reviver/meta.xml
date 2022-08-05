@@ -1,0 +1,7 @@
+<Z3>
+	<info author="[Z3]Script" name="[Z3]Reviver" version="0.1"/>
+
+	<script src="Client.lua" type="client" cache = 'false'/>
+	<script src="Server.lua"/>
+
+</Z3>

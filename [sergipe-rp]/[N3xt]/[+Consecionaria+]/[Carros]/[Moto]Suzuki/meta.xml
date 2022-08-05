@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="GM2MC" type="misc" name="suzuki" description="suzuki" />
+     <script src="script.lua" type="client" />
+     <file src="400.txd" />
+     <file src="400.dff" />
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+    <info author="CroakSCR" description="Deixa Acontecer" version="3.0" type="script" />
+	<script src="Marker.lua" type="server" />
+</meta>

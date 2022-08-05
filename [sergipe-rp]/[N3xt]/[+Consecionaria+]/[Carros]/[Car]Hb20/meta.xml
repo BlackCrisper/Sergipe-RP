@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="GM2MC" type="misc" name="hb20" description="hb20" />
+     <script src="script.lua" type="client" />
+     <file src="405.txd" />
+     <file src="405.dff" />
+</meta>

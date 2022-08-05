@@ -1,0 +1,24 @@
+<meta> 
+
+	<info author='AlveSCR' />
+    
+    <!-- Edit -->
+	<script src='mainG.lua' type='shared' />
+	
+    <!-- Utils -->
+	<script src='assets/utils/utils.luac' type='shared' cache='false' />
+    
+    <!-- SCR -->
+    <script src='assets/mainC.luac' type='client' cache='false' />
+    <script src='assets/mainS.luac' type='server' cache='false' />
+
+    <!-- dxEdit -->
+	<script src='assets/dx_Lib/dxEdit.luac' type='client' cache='false' />
+
+	<!-- Files -->
+	<file src='assets/img/digital.png' cache='false' />
+
+	<!-- Font -->
+	<file src='assets/font/regular.ttf' cache='false' />
+	
+</meta>

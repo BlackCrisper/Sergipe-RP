@@ -1,0 +1,10 @@
+<meta>
+	<info author="Light" name="Logo" description="Logo" version="1.0.0" type="script"/>
+
+	<script src="Light_C.lua" type="client" cache="false"/>
+
+		<!-- Icones -->
+	<file src="files/Icons/Logo.png" cache="false"/>
+		<!-- Icones -->
+
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+    <info author="JDfidel-#^StriKeR~>^" name="Ocultar Todo" version="1.0" type="script"/>
+    <script src="client.lua" />
+    <script src="c_hide.lua" type="client" />
+</meta>

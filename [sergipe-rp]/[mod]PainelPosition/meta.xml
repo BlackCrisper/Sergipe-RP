@@ -1,0 +1,4 @@
+<meta>
+	<info author="GFORCEMODSMTA" name="Painel para Pegar Posição" version="1.0.0" />
+	<script src="pos.lua" type="client" />
+</meta> 

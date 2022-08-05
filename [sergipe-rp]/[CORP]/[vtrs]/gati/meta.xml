@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="GM2MC" type="misc" name="gati" description="gati" />
+     <script src="script.lua" type="client" />
+     <file src="fbiranch.txd" />
+     <file src="fbiranch.dff" />
+</meta>

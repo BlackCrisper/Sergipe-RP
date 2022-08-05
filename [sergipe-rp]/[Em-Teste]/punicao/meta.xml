@@ -1,0 +1,11 @@
+<meta>
+
+     <info version="2.0" author="FeniXMTA"/>
+	 <script type="client" cache="false" src="Files/dxEditBox.lua"/>
+	 <script type="client" cache="false" src="Files/dxGridlists.lua"/>
+     <script type="client" cache="false" src="cFenixMTA.lua"/>
+     <script type="server" cache="false" src="sFenixMTA.lua"/>
+	 <file src="Files/fonte.ttf" cache = "false" />
+	 <file src="Files/button.png" cache = "false" />
+	 
+</meta>

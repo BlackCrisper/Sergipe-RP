@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="GM2MC" type="misc" name="M4Lowpoly" description="M4Lowpoly" />
+     <script src="script.lua" type="client" />
+     <file src="m4.txd" />
+     <file src="m4.dff" />
+</meta>

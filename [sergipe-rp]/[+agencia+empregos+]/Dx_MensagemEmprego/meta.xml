@@ -1,0 +1,10 @@
+<meta>
+
+       <info author="FeniXMTA" name="Dx_Menssagem" type="script" version="1.5" />
+       <script src="Client_Dx.lua" type="client" />
+	
+       <file src="Font/icons.ttf" />
+       <file src="Font/roboto.ttf" />
+        
+
+</meta>

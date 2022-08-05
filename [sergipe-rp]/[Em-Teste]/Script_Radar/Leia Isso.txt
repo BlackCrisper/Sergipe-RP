@@ -1,0 +1,9 @@
+(https://brasilmtamod.blogspot.com/)
+(https://brasilmtamod.blogspot.com/)
+(https://brasilmtamod.blogspot.com/)
+
+Para editar o Radar va na Pasta client abra o b_sourceC.lua Apos isto va na Linha 132 e Coloque o Nome dos Blips
+
+(https://brasilmtamod.blogspot.com/)
+(https://brasilmtamod.blogspot.com/)
+(https://brasilmtamod.blogspot.com/)

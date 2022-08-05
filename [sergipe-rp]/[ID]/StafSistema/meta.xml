@@ -1,0 +1,9 @@
+<meta>
+    <info author="Brito" version="2.0" type="Script" name="AdminsComandos" />
+    <min_mta_version server="1.5.5-9.14060"></min_mta_version>
+    <script src="server_S.lua" type="server" cache="false" />
+    <script src="client.lua" type="client" cache="false" />
+    
+    <export function="Script_Admin" type="client" />
+    <export function="Script_Admin" type="server" />
+</meta>

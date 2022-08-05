@@ -1,0 +1,13 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server"cashe="false"/>
+	<script src="keybinds.lua" type="client"cashe="false"/>
+	
+	<file src="files/font.otf"/>
+    
+    <file src="files/lock.png" />
+	<file src="files/light.png"/>
+	<file src="files/engine.png" />
+    <file src="files/benzin.png"/>
+
+</meta>

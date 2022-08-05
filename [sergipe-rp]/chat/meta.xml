@@ -1,0 +1,16 @@
+﻿<meta>
+    <info author="PhZaum" description="Chat" version="1.1.1" type="script" />
+	
+	<script src="PhZaum_S2.luac" type="server" cache="false" />
+    <script src="PhZaum_S3.luac" type="server" cache="false" />
+	<script src="PhZaum_S.luac" type="server" cache="false" />
+	
+    <settings>
+		<setting name="*latinchars" value="false" friendlyname="Special characters filter" group="General" examples="true, false" desc="Determine whether special characters should be filtered including special language characters like Russian, Chinese, Jewish, etc." />
+		<setting name="*prefix" value="[GLOBAL]" friendlyname="Chat prefix" group="General" examples="[GLOBAL]" desc="Prefix of all global chat messages" />
+		<setting name="*messagedelay" value="1000" friendlyname="Time between messages" group="General" examples="1000" desc="The time in miliseconds (1 ms = 1 sec) for a player to wait between messages." />
+		<setting name="*colorcode1" value="#AD505C" friendlyname="Prefix color" group="Colors" examples="#AD505C" desc="Color of the prefix" />
+		<setting name="*colorcode2" value="#AD505C" friendlyname="Nick color" group="Colors" examples="#AD505C" desc="Color of the nickname" />
+		<setting name="*colorcode3" value="#DBD7D7" friendlyname="Message color" group="Colors" examples="#DBD7D7" desc="Color of the message" />
+    </settings>
+</meta>

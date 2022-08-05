@@ -1,0 +1,5 @@
+<meta>
+	<script src="Arc_c.lua" type="client" cache="false" />
+	<script src="Arc_s.lua" type="server" cache="false" />
+
+</meta>

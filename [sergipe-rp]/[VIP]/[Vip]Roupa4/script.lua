@@ -1,0 +1,6 @@
+addEventHandler('onClientResourceStart',resourceRoot,function () 
+txd = engineLoadTXD( 'vip4.txd' ) 
+engineImportTXD( txd, 112 ) 
+dff = engineLoadDFF('vip4.dff', 112) 
+engineReplaceModel( dff, 112 )
+end)

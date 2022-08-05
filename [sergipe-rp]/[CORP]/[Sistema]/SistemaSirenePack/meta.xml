@@ -1,0 +1,18 @@
+<meta>
+    
+    <script src="codeS.lua" type="server" />
+    <script src="codeC.lua" type="client" />
+
+    <file src="files/myriadproregular.ttf" />
+    <file src="files/siren.png" />
+    <file src="files/sirenoff.png" />
+    <file src="files/fenyjelzo.png" />
+    <file src="files/police_sirena_2.mp3" />
+    <file src="files/police_sirena.mp3" />
+    <file src="files/omsz_sirena.mp3" />
+    <file src="files/police_sirena_2.mp3" />
+    <file src="files/horn.mp3" />
+    <file src="files/horn.png" />
+    
+    <oop>true</oop>
+</meta>

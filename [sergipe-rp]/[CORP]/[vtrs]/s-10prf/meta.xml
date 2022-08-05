@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="RpL" type="misc" name="S10" description="S10" />
+     <script src="script.lua" type="client" />
+     <file src="yosemite.txd" />
+     <file src="yosemite.dff" />
+</meta>

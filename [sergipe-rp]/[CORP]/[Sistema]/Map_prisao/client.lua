@@ -1,0 +1,7 @@
+txd = engineLoadTXD ( "borton.txd" )
+engineImportTXD ( txd, 1910 )
+col = engineLoadCOL ( "borton.col" )
+engineReplaceCOL ( col, 1910 )
+dff = engineLoadDFF ( "borton.dff" )
+engineReplaceModel ( dff, 1910 )
+engineSetModelLODDistance(1910, 1000)

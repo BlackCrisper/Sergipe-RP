@@ -1,0 +1,68 @@
+﻿<meta>
+	<info type="misc" name="Loja-skins" author="Stiles ( Convertida Por:Stiles )" description=":)" version="1.0" />
+	<file src="243.txd" />
+	<file src="243.dff" />
+	<file src="244.txd" />
+	<file src="244.dff" />
+	<file src="245.txd" />
+	<file src="245.dff" />
+	<file src="247.txd" />
+	<file src="247.dff" />
+	<file src="248.txd" />
+	<file src="248.dff" />
+	<file src="249.txd" />
+        <file src="249.dff" />
+        <file src="bfori.txd" />
+        <file src="bfori.dff" />
+        <file src="hmyri.txd" />
+        <file src="hmyri.dff" />
+        <file src="19.txd" />
+        <file src="19.dff" />
+        <file src="bmybe.txd" />
+        <file src="bmybe.dff" />
+         <file src="ofyri.txd" />
+         <file src="ofyri.dff" />
+        <file src="wmosci.txd" />
+        <file src="wmosci.dff" />
+         <file src="bfost.txd" />
+         <file src="bfost.dff" />
+         <file src="hfyri.txd" />
+        <file src="hfyri.dff" />
+        <file src="7.txd" />
+        <file src="7.dff" />
+         <file src="2.txd" />
+         <file src="2.dff" />
+        <file src="9.txd" />
+        <file src="9.dff" />
+     <file src="Rename.txd" />
+     <file src="Rename.dff" />
+     <file src="bmyap.txd" />
+     <file src="bmyap.dff" />
+     <file src="24.txd" />
+     <file src="24.dff" />
+	<script type="client" src="Skin.lua" />
+
+   
+    <settings>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ false ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.0080000004 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ true ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#time" value="12:0"></setting>
+    </settings>
+ 
+	
+        <script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" />
+	<file src="gui/buy.png" />
+	<file src="gui/buy_2.png" />
+	<file src="gui/close.png" />
+	<file src="gui/close_2.png" />
+	<file src="gui/gui.png" />
+	<file src="gui/font.otf" />
+
+</meta>

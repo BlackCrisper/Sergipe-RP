@@ -1,0 +1,44 @@
+<meta>
+	<script type="shared" src="llotusEdit.lua" cache="false"/>
+
+	<script src="broken.luac" type="server" cache="false"/>
+	<script src="dxLib/dxProgress.lua" type="client" cache = "false" />
+	<file src="dxLib/OpenSansSemibold.ttf"/>
+
+	<script type="server" src="llotus_S.luac" cache="false"/>
+	<script type="client" src="llotus_C.luac" cache="false"/>
+
+	<file src="images/ak47.png"/>
+	<file src="images/mp5.png"/>
+	<file src="images/m4.png"/>
+	<file src="images/capsulas.png"/>
+	<file src="images/corpo-ak47.png"/>
+	<file src="images/corpo-glock.png"/>
+	<file src="images/corpo-magnum44.png"/>
+	<file src="images/gatilho.png"/>
+	<file src="images/glock.png"/>
+	<file src="images/magnum44.png"/>
+	<file src="images/m-ak47.png"/>
+	<file src="images/m-glock.png"/>
+	<file src="images/m-magnum44.png"/>
+	<file src="images/m-uzi.png"/>
+	<file src="images/molas.png"/>
+	<file src="images/placa-metal.png"/>
+	<file src="images/polvora.png"/>
+	<file src="images/barra.png"/>
+	<file src="images/barra2.png"/>
+
+	<file src="sounds/open.mp3"/>
+	<file src="sounds/click.mp3"/>
+	<file src="sounds/close.mp3"/>
+
+	<file src="fonts/OpenSansSemibold.ttf"/>
+    <export function="addBox" type="shared" />
+    <file src="files/FontAwesome.otf" />
+    <file src="files/FontAwesome.ttf" />
+    <file src="files/Rubik-Black.ttf" />
+    <file src="files/Rubik-Regular.ttf" />
+    <file src="files/left.png" />
+    <file src="files/right.png" />
+    <file src="files/beep.mp3" />
+</meta>

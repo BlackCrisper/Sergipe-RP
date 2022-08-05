@@ -1,0 +1,24 @@
+<meta>
+	<info author="Kaiki" name="Deashbord" description="OBRIGADO" version="1.0.0" type="script"/>
+
+	<script src="Lest.lua" type="client" cache="false"/>
+
+
+	<file src="files/fonts/font.otf" />
+		<file src="files/fonts/font2.ttf" />
+		<file src="files/fonts/OpenSans-Bold.ttf" />
+		<file src="settings_options.png" />
+		<file src="background_icon.png" />
+		<file src="icon_heart.png" />
+		<file src="icon_armor.png" />
+		<file src="icon_hunger.png" />
+		<file src="icon_thirst.png" />
+		<file src="money.png" />
+		<file src="card.png" />
+		<file src="User2.png" />
+		<file src="maleta.png" />
+		<file src="procurado.png" />
+		<file src="Fundo.png" />
+		<file src="Bola.png" />
+		<file src="logo.png" />
+</meta>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="GM2MC" type="misc" name="VtrSamu" description="VtrSamu" />
+     <script src="script.lua" type="client" />
+     <file src="ambulan.txd" />
+     <file src="ambulan.dff" />
+</meta>
